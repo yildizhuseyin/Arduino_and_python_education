@@ -4,6 +4,7 @@ from google.genai.errors import APIError
 
 # >>> API ANAHTARINIZI BURAYA GİRİN <<<
 GEMINI_API_KEY = "....." # ANAHTARINIZ_BURAYA
+GEMINI_API_KEY = "AIzaSyBZ_C81c3pPrSonQLdbiMclBmuxLTzu4Ac" # ANAHTARINIZ_BURAYA
 # Anahtarınızı tırnak işaretleri (" ") içinde tutun.
 
 def basit_gemini_sorgusu(soru):
